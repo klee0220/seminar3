@@ -57,6 +57,8 @@ git commit -m "name_commit"
 
 ## Add headers
 
+bla bla
+
 ## Add images
 
 ## Add source_code
