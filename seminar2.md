@@ -61,6 +61,8 @@ git commit -m "name_commit"
 
 ## Add source_code
 
+conflict text
+
 ## Add tables
 
 ### Таблицы
